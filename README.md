@@ -1,15 +1,24 @@
-# desenvolvemento de API com ruby on Rails + docker + Banco de Dados + Postgresql
+# README
 
-## Atividade em grupo para aprendiszador
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-### Tarefas a serem executadas
+Things you may want to cover:
 
+* Ruby version
 
--Criar conteiner docker
--defenir máquinas 
-     -app
-     -db
+* System dependencies
 
+* Configuration
 
+* Database creation
 
+* Database initialization
 
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
